@@ -32,7 +32,6 @@ I am a developer who is passionate about stuff like Application Development , Ba
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=narsimha-na&show_icons=true&count_private=true&theme=dracula&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha-na&show_icons=true&count_private=true&hide=css,java,html&theme=dracula&line_height=27">
 </p>
 
