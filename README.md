@@ -25,14 +25,3 @@ I am a developer who is passionate about stuff like Application Development , Ba
 </details>
 
 ---
-
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha-na&show_icons=true&count_private=true&hide=css,java,html&theme=dracula&line_height=27">
-</p>
-
-</details>
