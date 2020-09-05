@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer who is passionate about stuff like Application Development , Backend Services and Machine Learning. Few Languages that I enjoy working in are Java , Python, Kotlin , PHP, JavaScript and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+I am a developer who is passionate about stuff like Application Development , Backend Services and Machine Learning. Few Languages that I enjoy working in are Java , Python, Kotlin , PHP, JavaScript and  AWS. I am actively looking for opportunities in Applicaiton Development & Backend Services. Recently, I have just started with tech-blogging!
 
 - 👨🏽‍💻 Currently working, learning and growing my skill set in Application Development (Web & Mobile), competitive coding and Machine Learing.
 - 🤝 Open for collaborations in Application Development(Mobile & Web Apps).
